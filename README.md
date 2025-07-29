@@ -14,5 +14,6 @@ I made this because I have a navidrome media server, and I wanted a way to show 
 Hint: You can use the arrow keys to skip or go back in the song list and the spacebar to play/pause when the interact window is focused.
 
 
-## Screenshot
+## Screenshots
+(as you can see, the now-playing indicator is in the top-left of the recording) 
 <img width="1593" height="894" alt="image" src="https://github.com/user-attachments/assets/3125ebc3-7584-425e-9f2f-805914462a6e" />
