@@ -1,0 +1,31 @@
+* {
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+.progress-bar-content {
+	visibility: visible;
+}
+
+.img-content {
+	visibility: visible;
+}
+
+.songTitle {
+	visibility: visible;
+	color: white;
+}
+
+.songArtist {
+	visibility: visible;
+	color: white;
+}
+
+.audio-main {
+	display: none;
+}
+
+.audio-title {
+	padding-top: 20px;
+}
