@@ -11,4 +11,8 @@ I made this because I have a navidrome media server, and I wanted a way to show 
 4. Copy the contents of ``custom.css`` into the Custom CSS section in the browser source's properties.
 5. Enjoy! (You can crop-resize the browser source in the OBS preview by holding ALT while resizing it.)
 
--# Hint: You can use the arrow keys to skip or go back in the song list and the spacebar to play/pause when the interact window is focused.
+Hint: You can use the arrow keys to skip or go back in the song list and the spacebar to play/pause when the interact window is focused.
+
+
+## Screenshot
+<img width="1593" height="894" alt="image" src="https://github.com/user-attachments/assets/3125ebc3-7584-425e-9f2f-805914462a6e" />
